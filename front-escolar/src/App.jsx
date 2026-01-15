@@ -101,7 +101,7 @@ function App() {
             ))}
           </ul>
           <button onClick={processarCalculos} style={{ backgroundColor: 'green', color: 'white', padding: '10px' }}>
-            CALCULAR RESULTADOS (Enviar p/ C#)
+            CALCULAR RESULTADOS
           </button>
         </div>
       )}
