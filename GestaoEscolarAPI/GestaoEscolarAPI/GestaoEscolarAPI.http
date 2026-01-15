@@ -1,0 +1,11 @@
+@GestaoEscolarAPI_HostAddress = http://localhost:5262
+
+GET {{GestaoEscolarAPI_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{GestaoEscolarAPI_HostAddress}}/todos/1
+Accept: application/json
+
+###

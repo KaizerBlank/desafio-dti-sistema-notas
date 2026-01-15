@@ -1,0 +1,11 @@
+
+node_modules/
+dist/
+.env
+
+
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
